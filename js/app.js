@@ -149,59 +149,7 @@ for (const value of person) {
 //     // do stuff
 // }
 
-for (let a = 0; a < Array.length; a++) {
-    for (let b = 0; b < Array.length; b++) {
-        for (let c = 0; c < Array.length; c++) {
-            for (let d = 0; d < Array.length; d++) {
-                for (let e = 0; e < Array.length; e++) {
-                    for (let f = 0; f < Array.length; f++) {
-                        for (let g = 0; g < Array.length; g++) {
-                            for (let h = 0; h < Array.length; h++) {
-                                for (let i = 0; i < Array.length; i++) {
-                                    for (let j = 0; j < Array.length; j++) {
-                                        for (let k = 0; k < Array.length; k++) {
-                                            for (let l = 0; l < Array.length; l++) {
-                                                for (let m = 0; m < Array.length; m++) {
-                                                    for (let n = 0; n < Array.length; n++) {
-                                                        for (let o = 0; o < Array.length; o++) {
-                                                            for (let p = 0; p < Array.length; p++) {
-                                                                for (let q = 0; q < Array.length; q++) {
-                                                                    for (let r = 0; r < Array.length; r++) {
-                                                                        for (let s = 0; s < Array.length; s++) {
-                                                                            for (let t = 0; t < Array.length; t++) {
-                                                                                for (let u = 0; u < Array.length; u++) {
-                                                                                    for (let v = 0; v < Array.length; v++) {
-                                                                                        for (let w = 0; w < Array.length; w++) {
-                                                                                            for (let x = 0; x < Array.length; x++) {
-                                                                                                for (let y = 0; y < Array.length; y++) {
-                                                                                                    for (let z = 0; z < Array.length; z++) {
-                                                                                                        // do stuff
-                                                                                                    }
-                                                                                                }
-                                                                                            }
-                                                                                        }
-                                                                                    }
-                                                                                }
-                                                                            }
-                                                                        }
-                                                                    }
-                                                                }
-                                                            }
-                                                        }
-                                                    }
-                                                }
-                                            }
-                                        }
-                                    }
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-        }
-    }
-}
+
 
 let length = 9;
 while (length < 10) {
