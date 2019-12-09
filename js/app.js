@@ -96,3 +96,13 @@ for (const key in object) {
         }
     }
 }
+
+let food = [
+    'pizza',
+    'bread',
+    'butter',
+    'milk'
+]
+for (const el of food) {
+    console.log(el);
+}
