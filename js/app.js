@@ -103,6 +103,6 @@ let food = [
     'butter',
     'milk'
 ]
-for (const el of food) {
-    console.log(el);
+for (const value of food) {
+    console.log(value);
 }
