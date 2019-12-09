@@ -114,7 +114,7 @@ for (const letter of string) {
 
 for (const key in food) {
     if (food.hasOwnProperty(key)) {
-        const.log(key);
+        console.log(key);
     }
 }
 
