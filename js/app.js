@@ -112,6 +112,12 @@ for (const letter of string) {
     console.log(letter);
 }
 
+for (const key in food) {
+    if (food.hasOwnProperty(key)) {
+        const.log(key);
+    }
+}
+
 const iterable = 'boo';
 
 for  (const value of iterable) {
