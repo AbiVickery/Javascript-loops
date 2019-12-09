@@ -118,6 +118,8 @@ for (const key in food) {
     }
 }
 
+// BREAK, CONTINUE
+
 const iterable = 'boo';
 
 for  (const value of iterable) {
