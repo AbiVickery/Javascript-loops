@@ -107,6 +107,11 @@ for (const value of food) {
     console.log(value);
 }
 
+let string = 'hello';
+for (const letter of string) {
+    console.log(letter);
+}
+
 const iterable = 'boo';
 
 for  (const value of iterable) {
